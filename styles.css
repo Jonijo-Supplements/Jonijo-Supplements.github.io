@@ -1,0 +1,21 @@
+.anders {
+  color: white;
+}
+p.round {
+  border: 2px solid black
+  border-radius: 12px;
+  padding: 5px;
+}
+
+
+
+body {
+  margin: auto;
+}
+
+/* Style the header */
+.header {
+  background-color: black;
+  padding: 9;
+  
+}
