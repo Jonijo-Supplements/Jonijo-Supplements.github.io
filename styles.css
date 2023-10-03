@@ -103,4 +103,37 @@ input {
   width: 100vw;
   font-size: 16px;
 }
-.
+  /* style over ons pagina */
+.overons {
+    margin-left: 25px;
+}
+  .overons > h2 .wiezijnwij{
+    margin-left: 100px;
+  }
+  .wiezijnwij > p {
+    margin-left: 90px;
+  }
+  .overons > h2 .watwijdoen{
+    margin-left: 30px;
+  }
+  .watwijdoen > p {
+    margin-left: 25px;
+  }
+  .
+  .
+
+
+/* alle producten text*/
+.heading{
+  text-align: center;
+  margin-bottom: 2rem;
+  position: relative;
+
+
+  span{
+    font-size: 3rem;
+    color: white;
+    
+  }
+}
+  
